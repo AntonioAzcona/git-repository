@@ -2,7 +2,7 @@
 
 1. git init                - Inicializa un repositorio
 2. git add .               - Agrega y prepara todos los archivos nuevos (en el stage) para un 
-                          commit
+                             commit
 3. git reset .             - Deshace lo que se agregó con el git add . 
 4. git commit -m           - Agrega al repositorio los archivos
 5. git checkout -- .       - Todos los archivos que se encuentran en el repositorio se 
