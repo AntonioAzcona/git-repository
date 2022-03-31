@@ -15,7 +15,7 @@
 10. git merge               - Fusiona los cambios entre ramas
 11. git branch -d rama      - Borra la rama
 
-12. git remote add origin url   -   Agrega la rama a remoto
+12. git remote add origin url   -  Agrega la rama a remoto
 13. git branch -M main      - Renombra la rama master a main
 14. git push -u origin main - Sube cambios al main
 
