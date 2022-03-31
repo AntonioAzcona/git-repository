@@ -20,4 +20,5 @@
 14. git push -u origin main - Sube cambios al main
 
 15. git push                - Sube los cambios
+16. git commit -am          - Es la combinación de git add . y git commit -m "mensaje"
 
